@@ -8,6 +8,9 @@ I am currently studying at the University of Phayao in the Faculty of Informatio
 * ✉️  You can contact me at [jynx1592@gmail.com](mailto:jynx1592@gmail.com)
 * 🧠  I'm learning html, css, javascript and python. I would like to study other things.
 
+<a href="https://www.github.com/jynxTc" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/jynxTc?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+
 ### Skills
 
 
